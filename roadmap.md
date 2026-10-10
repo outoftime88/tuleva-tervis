@@ -1,0 +1,4 @@
+- [ ] Replace the long front page with a four-step journey and sticky financial summary.
+- [ ] Remove undefined scores, separate medical warnings and insurance decisions, and require complete questionnaire answers.
+- [ ] Add scenario comparison, term explanations, and single-column mobile results.
+- [ ] Remove unconfirmed certificate claims and verify the complete journey.
